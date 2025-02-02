@@ -1,0 +1,7 @@
+d643dc,abc,War and Peace,2025-01-30,2025-02-13,approved,0.0
+02b065,abc,The Great Gatsby,2025-01-30,2025-02-13,approved,0.0
+c30073,abc,To Kill a Mockingbird,2025-01-30,2025-02-13,pending,0.0
+555209,abc,War and Peace,2025-01-30,2025-02-13,pending,0.0
+73496b,noyon,To Kill a Mockingbird,2025-01-31,2025-02-14,approved,0.0
+19d0d2,noyon,The Lord of the Rings,2025-01-31,2025-01-14,approved,100.0
+09c543,noyon,War and Peace,2025-01-31,2025-02-14,approved,0.0
